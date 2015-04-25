@@ -1,1 +1,1 @@
-name, date, description
+Logan Fischer, 4/16/15, Had a Security error that prevented the image from displaying. Besides that the code should be good.
